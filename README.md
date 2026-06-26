@@ -28,8 +28,6 @@ A web-based greeting card system built with **PHP and PHPMailer** that allows us
 
 ## 📸 Project Preview
 
-### 🖼️ Home / System Preview
-<img width="1143" height="592" alt="image" src="https://github.com/user-attachments/assets/88de2827-c942-4144-8457-be6dd0dfc37f" />
+### 🖼️ Card Page Preview
 
-### 🖼️ Create Card Page
-![Create Card](screenshots/create-card.png)
+<img src="https://github.com/user-attachments/assets/88de2827-c942-4144-8457-be6dd0dfc37f" width="100%" />
