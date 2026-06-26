@@ -28,13 +28,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'marcelinoorienza01@gmail.com'; // FIXED
-        $mail->Password   = 'thsupwogylwndadm'; // App password
+        $mail->Username   = '@gmail.com'; // FIXED
+        $mail->Password   = ''; // App password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->Port       = 587;
+        $mail->Port       = ;
 
         // ✅ REQUIRED FIX (FROM EMAIL)
-        $mail->setFrom('marcelinoorienza01@gmail.com', 'BSIS - Greeting Card');
+        $mail->setFrom('', 'BSIS - Greeting Card');
 
         $mail->addAddress($email, $receiversName);
 
