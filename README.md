@@ -1,2 +1,7 @@
-# Greeting-Card-System
-A web-based greeting card system built with PHP and PHPMailer featuring automated email delivery, customizable templates, and responsive user interfaces.
+## 📸 Project Preview
+
+### 🖼️ Home / System Preview
+<img width="1143" height="592" alt="image" src="https://github.com/user-attachments/assets/88de2827-c942-4144-8457-be6dd0dfc37f" />
+
+### 🖼️ Create Card Page
+![Create Card](screenshots/create-card.png)
